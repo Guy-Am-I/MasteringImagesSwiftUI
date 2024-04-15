@@ -7,7 +7,7 @@
 
 import Foundation
 
-enum NatureImage: String {
+enum NatureImage: String, CaseIterable {
     case img0 = "blake-verdoorn-cssvEZacHvQ-unsplash"
     case img1 = "lukasz-szmigiel-jFCViYFYcus-unsplash"
     case img2 = "quino-al-mBQIfKlvowM-unsplash"

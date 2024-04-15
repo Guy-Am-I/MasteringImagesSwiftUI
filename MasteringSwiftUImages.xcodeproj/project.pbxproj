@@ -15,6 +15,7 @@
 		780D99FD2BCCC195001BCDB2 /* ImagesExploring.swift in Sources */ = {isa = PBXBuildFile; fileRef = 780D99FC2BCCC195001BCDB2 /* ImagesExploring.swift */; };
 		780D9A002BCCC52C001BCDB2 /* ImagesExploring2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 780D99FF2BCCC52C001BCDB2 /* ImagesExploring2.swift */; };
 		780D9A022BCCC5E4001BCDB2 /* ImagesExploring3.swift in Sources */ = {isa = PBXBuildFile; fileRef = 780D9A012BCCC5E4001BCDB2 /* ImagesExploring3.swift */; };
+		780D9A042BCCCBD0001BCDB2 /* ImageExploring4.swift in Sources */ = {isa = PBXBuildFile; fileRef = 780D9A032BCCCBD0001BCDB2 /* ImageExploring4.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -27,6 +28,7 @@
 		780D99FC2BCCC195001BCDB2 /* ImagesExploring.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImagesExploring.swift; sourceTree = "<group>"; };
 		780D99FF2BCCC52C001BCDB2 /* ImagesExploring2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImagesExploring2.swift; sourceTree = "<group>"; };
 		780D9A012BCCC5E4001BCDB2 /* ImagesExploring3.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImagesExploring3.swift; sourceTree = "<group>"; };
+		780D9A032BCCCBD0001BCDB2 /* ImageExploring4.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImageExploring4.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -45,6 +47,7 @@
 			children = (
 				780D99FF2BCCC52C001BCDB2 /* ImagesExploring2.swift */,
 				780D9A012BCCC5E4001BCDB2 /* ImagesExploring3.swift */,
+				780D9A032BCCCBD0001BCDB2 /* ImageExploring4.swift */,
 				780D99EB2BCCB7FC001BCDB2 /* MasteringSwiftUImages */,
 				780D99EA2BCCB7FC001BCDB2 /* Products */,
 			);
@@ -161,6 +164,7 @@
 				780D99FB2BCCBC2B001BCDB2 /* ImageConstants.swift in Sources */,
 				780D9A022BCCC5E4001BCDB2 /* ImagesExploring3.swift in Sources */,
 				780D99FD2BCCC195001BCDB2 /* ImagesExploring.swift in Sources */,
+				780D9A042BCCCBD0001BCDB2 /* ImageExploring4.swift in Sources */,
 				780D99ED2BCCB7FC001BCDB2 /* MasteringSwiftUImagesApp.swift in Sources */,
 				780D9A002BCCC52C001BCDB2 /* ImagesExploring2.swift in Sources */,
 			);

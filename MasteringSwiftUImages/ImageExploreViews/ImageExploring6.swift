@@ -9,17 +9,16 @@ import SwiftUI
 
 struct ImageExploring6: View {
     let columns: [GridItem] = [
-        GridItem(.flexible())
         GridItem(.flexible()),
+        GridItem(.flexible())
     ]
     var body: some View {
         ScrollView {
             LazyVGrid(columns: columns) {
                 ForEach(NatureImage.allCases, id: \.self) { img in
-                    Rectangle()
-                        .fill(Color.cyan)
-                        .frame(height: 300)
-                        .padding()
+                    Image(img.rawValue)
+                        .resizable()
+                        .scaledToFit()
                 }
             }
         }
